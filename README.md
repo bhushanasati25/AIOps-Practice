@@ -32,5 +32,9 @@ dvc repro
 ```
 
 ```bash
+dvc dag
+```
+
+```bash
 touch fileName.extension
 ```
